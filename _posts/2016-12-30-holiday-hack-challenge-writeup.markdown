@@ -278,7 +278,7 @@ We can see we have the entire file system for the Cranbian image.  Another frien
 You can find some good example of how to use john on the inter-webs. Since I mounted the Cranbian image on a VM in which I have root, I am able to view the /etc/passwd and /etc/shadow files. The following cracks the password for the cranpi account wide open...
 
 ```shell
-vagrant@precise64:~$ unshadow cranbian/etc/passwd cranbian/etc/shadow &gt; mypasswd
+vagrant@precise64:~$ unshadow cranbian/etc/passwd cranbian/etc/shadow > mypasswd
 
 vagrant@precise64:~$ tail -1 mypasswd
 
