@@ -1,0 +1,11 @@
+name: Constant Vigillance!
+author: Madeye Moody
+description: Pwn, Pun, Parent
+markdown: kramdown
+paginate: 15
+
+gems:
+    - jekyll-paginate
+kramdown:
+    input: GFM
+    sytntax_highlighter: rouge
