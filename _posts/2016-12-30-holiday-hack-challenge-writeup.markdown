@@ -5,7 +5,7 @@ date: 2016-12-30
 disqus: true
 ---
 
-The great folks at SANS and Counter Hack have brought us another adventure in the land of Josh and Jessica Dosis. This years challenge is called Santa's Business Card. The game can be found [here](http://holidayhackchallenge.com). After saving the world from the nefarious plot of the ATNA Corporation last year, siblings Josh and Jessica find themselves in a pickle when Santa gets kidnapped from there house on Christmas Eve. All that is left is Santa's business card. Its up to us to help the Dosis kids save Christmas (again...).
+The great folks at SANS and CounterHack have brought us another adventure in the land of Josh and Jessica Dosis. This years challenge is called Santa's Business Card. The game can be found [here](http://holidayhackchallenge.com). After saving the world from the nefarious plot of the ATNA Corporation last year, siblings Josh and Jessica find themselves in a pickle when Santa gets kidnapped from there house on Christmas Eve. All that is left is Santa's business card. Its up to us to help the Dosis kids save Christmas (again...).
 
 ### Part 1: A Most Curious Business Card
 
@@ -13,7 +13,7 @@ As you can see below, Santa's Business Card gives us a couple links to his socia
 
 ![Santa's Business Card](/assets/images/holidayhack2016/santas_business_card_logo.png)
 
-We are asked a couples that this clue will lead up to answer:
+We are asked a couple initial questions that this clue will lead us to the answers:
 
 ```
 And that, Dear Reader, is where you get involved. Take a close look at Santa's Business card. You can also inspect the crime scene by entering the Dosis home here. Based on your analysis, please answer the following questions:
@@ -97,7 +97,7 @@ inflating: SantaGram_4.2.apk
 
 We now enter the game world of the Dosis home. We find Josh and Jessica as we left them last year (maybe a pixel or two taller!). We see the business card, a destroyed Christmas tree, and Santa's bag with a glittering opening. Entering the bag, we are transported to the North Pole.
 
-This 8-bit wonderland is even better than last years environment. We are able to explore all around the north pole meeting other players, non-player characters, and even some real Counter Hack personalities (like the Real Ed Skodius.)
+This 8-bit wonderland is even better than last years environment. We are able to explore all around the north pole meeting other players, non-player characters, and even some real CounterHack personalities (like the Real Ed Skodius.)
 
 For Part 2, we have to answer the following questions about the APK file found in the zip file from Part 1.
 
@@ -308,7 +308,7 @@ Now that we have the password to the cranpi account, we can return to Holly Ever
 
 #### Open all the Terminal Doors throughout the North Pole
 
-The terminal doors were a nice way of adding some actual hacking inside the game environment. Last year, you played in the game world but only to unlock achievements, retrieve files and get some hints from SANS / Counter Hack personalities. I really liked this addition and they were critical to answer all of the questions in the second half of Part 3.
+The terminal doors were a nice way of adding some actual hacking inside the game environment. Last year, you played in the game world but only to unlock achievements, retrieve files and get some hints from SANS / CounterHack personalities. I really liked this addition and they were critical to answer all of the questions in the second half of Part 3.
 
 The doors are marked with a little cranberry icon but during December they were hard to see because of the crowd of players at each panel. Another way to know a panel was near by was trying to access a door and seeing the password panel below. Once you access the panel with your Cranberry Pi, you are presented with a pop up terminal window in a very limited Linux environment.
 
@@ -401,7 +401,7 @@ Once I realized the interactions had to be exact (I was initially forgetting the
 
 ![WarGames Blooper](/assets/images/holidayhack2016/wargames_blooper.png)
 
-The problem with this shot is that its a blooper. When David Lightman (Broderick) first enters the response to the account removal question, he correctly spells mistakes but above, you see it is missing the e and period. Very ironic that the **mistake** was on *mistake*. I would not have put it past the folks at Counter Hack to either only except this response or at least acknowledge it with another Easter Egg.
+The problem with this shot is that its a blooper. When David Lightman (Broderick) first enters the response to the account removal question, he correctly spells mistakes but above, you see it is missing the e and period. Very ironic that the **mistake** was on *mistake*. I would not have put it past the folks at CounterHack to either only except this response or at least acknowledge it with another Easter Egg.
 
 The terminal door is the one on the train in the east wing of the workshop. This is the same location where Shinny Upatree gave us the hint about using JadX on the APK file.
 
@@ -437,7 +437,7 @@ Look like this train is installed with a *Back to the Future* style Flux Capacit
 
 ![1978](/assets/images/holidayhack2016/1978.png)
 
-1978 North Pole greets us with a nice piece of snow art showing us the year. 1978 also has a nice sepia tint. No need to grab a newspaper to confirm the date. The creativity of the Counter Hack team with 1978 is some of the most fun of the entire game. Each elf's conversation is loaded with puns about "future" technologies and closely relates to what they tell you in 2016. For instance **Holly Evergreen** who in 2016 provides you the Cranbian image once you assemble all the parts, has the following to say:
+1978 North Pole greets us with a nice piece of snow art showing us the year. 1978 also has a nice sepia tint. No need to grab a newspaper to confirm the date. The creativity of the CounterHack team with 1978 is some of the most fun of the entire game. Each elf's conversation is loaded with puns about "future" technologies and closely relates to what they tell you in 2016. For instance **Holly Evergreen** who in 2016 provides you the Cranbian image once you assemble all the parts, has the following to say:
 
 >>My aunt gave me her famous Cran Pi recipe, which seems simple - there are only five ingredients! But I don't understand these instructions. What do you mean the heat sinks?
 
