@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2016 SANS Holiday Hack Challenge Writeup"
-date: 2016-12-30
+date: 2016-12-31 03:13:37
 disqus: true
 ---
 
