@@ -97,7 +97,7 @@ inflating: SantaGram_4.2.apk
 
 We now enter the game world of the Dosis home. We find Josh and Jessica as we left them last year (maybe a pixel or two taller!). We see the business card, a destroyed Christmas tree, and Santa's bag with a glittering opening. Entering the bag, we are transported to the North Pole.
 
-This 8-bit wonderland is even better than last years environment. We are able to explore all around the north pole meeting other players, non-player characters, and even some real CounterHack personalities (like the Real Ed Skodius.)
+This 8-bit wonderland is even better than last years environment. We are able to explore all around the north pole meeting other players, non-player characters, and even some real CounterHack personalities (like the Real Ed Skoudis.)
 
 For Part 2, we have to answer the following questions about the APK file found in the zip file from Part 1.
 
